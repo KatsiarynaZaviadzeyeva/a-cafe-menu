@@ -10,12 +10,15 @@ p {
 
 .menu {
     width: 80%;
+    max-width: 500px;
     background-color: burlywood;
     margin-right: auto;
     margin-left: auto;
+    padding: 20px;
 }
 
-.flavor {
+.flavor,
+.dessert {
     text-align: left;
     width: 75%;
 }
